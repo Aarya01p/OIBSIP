@@ -1,5 +1,3 @@
-Absolutely — copy **everything inside the box** below and paste it directly into your `README.md`.
-
 ````markdown
 # Number Guessing Game
 
