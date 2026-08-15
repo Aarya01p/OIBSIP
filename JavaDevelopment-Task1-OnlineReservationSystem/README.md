@@ -570,35 +570,25 @@ Screenshots of the application can be added here.
 
 ### Login Screen
 
-Add screenshot here:
 
-```text
 ![Login Screen](screenshots/login.png)
-```
 
 ### Dashboard
 
-```text
 ![Dashboard](screenshots/dashboard.png)
-```
 
 ### Reservation Form
 
-```text
 ![Reservation Form](screenshots/reservation.png)
-```
 
 ### Booking Confirmation
 
-```text
 ![Booking Confirmation](screenshots/booking-confirmation.png)
-```
 
 ### Cancellation Form
 
-```text
 ![Cancellation Form](screenshots/cancellation.png)
-```
+
 
 ---
 
