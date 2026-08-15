@@ -1,4 +1,4 @@
-````markdown
+
 # Number Guessing Game
 
 A console-based Number Guessing Game developed using Java. The computer generates a random number between 1 and 100, and the player attempts to guess it within a maximum of 7 attempts.
@@ -457,5 +457,3 @@ B.Tech – Computer Science and Engineering (AI & Machine Learning)
 
 This project was developed as part of a Java Development internship/task and is intended for educational and learning purposes.
 
-```
-```
